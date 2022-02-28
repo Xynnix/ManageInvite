@@ -571,10 +571,10 @@ cross-spawn@^7.0.2:
     shebang-command "^2.0.0"
     which "^2.0.1"
 
-date-and-time@^0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/date-and-time/-/date-and-time-0.14.2.tgz#a4266c3dead460f6c231fe9674e585908dac354e"
-  integrity sha512-EFTCh9zRSEpGPmJaexg7HTuzZHh6cnJj1ui7IGCFNXzd2QdpsNh05Db5TF3xzJm30YN+A8/6xHSuRcQqoc3kFA==
+date-and-time@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/date-and-time/-/date-and-time-2.2.1.tgz#70691b7d8a17633f3abe32aab148e194f9f2e215"
+  integrity sha512-i5lrLPmRbdtb9/Tcu+NWWvff29ejNZtnL/6TI5VbhuPtqgea7bovY0F2AtFSX9QDQEQLUtqJ3R8ypM2c6alGoA==
 
 debug@2.6.9:
   version "2.6.9"
